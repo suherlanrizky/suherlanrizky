@@ -1,31 +1,53 @@
 <div align="center">
 
   <!-- Header -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Rizky+Suherlan;Data+Analyst;Turning+Data+into+Actionable+Insights;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Rizky+Suherlan;Data+Analyst;Turning+Data+into+Insights;" alt="Typing SVG" />
 
   ### **Data Analyst** | Focused on Excel, SQL & BI Tools
 
   <!-- Social Badges -->
-  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/discord) 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/test) 
-  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:test@gmail.com)  
+  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:test@gmail.com) 
+  [![Website](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white)](https://rizky.github.io)
+
 </div>
 
 ---
 
 ## 💫 About Me
-👋 I’m a data analyst passionate about turning complex datasets into clear stories and actionable insights.  
-I specialize in building dashboards that people actually use, automating repetitive tasks to free up teams for more strategic work, and developing models that support better planning.  
-Outside of work, I enjoy spending time outdoors and appreciating nature.  
+<div style="background-color:#f9f9f9; padding:15px; border-radius:10px; border:1px solid #ddd;">
+
+👋 I’m a <b>Data Analyst</b> passionate about turning complex datasets into clear stories and actionable insights 🚀  
+🔭 I specialize in building dashboards, automating repetitive tasks, and developing models for better planning.  
+⚡ Fun fact: I enjoy spending time outdoors and appreciating nature 🌿  
+
+</div>
 
 ---
 
 ## 🌱 Currently Learning
-| Skill Area   | Focus Topics | Tools/Methods |
-|--------------|--------------|---------------|
-| 📊 **Excel** | PivotTables, PivotCharts, dashboards | Excel, Google Sheets |
-| 📈 **Power BI** | Interactive reports, visualization | Power BI |
-| 🗄️ **SQL** | Queries, joins, aggregations | MySQL, PostgreSQL |
+<table style="border-collapse: collapse; width: 100%; border:1px solid #ddd;">
+  <tr style="background-color:#f2f2f2;">
+    <th>Skill Area</th>
+    <th>Focus Topics</th>
+    <th>Tools/Methods</th>
+  </tr>
+  <tr>
+    <td>📊 <b>Excel</b></td>
+    <td>PivotTables, PivotCharts, dashboards</td>
+    <td>Excel, Google Sheets</td>
+  </tr>
+  <tr style="background-color:#f9f9f9;">
+    <td>📈 <b>Power BI</b></td>
+    <td>Interactive reports, visualization</td>
+    <td>Power BI</td>
+  </tr>
+  <tr>
+    <td>🗄️ <b>SQL</b></td>
+    <td>Queries, joins, aggregations</td>
+    <td>MySQL, PostgreSQL</td>
+  </tr>
+</table>
 
 ---
 
@@ -42,10 +64,10 @@ Outside of work, I enjoy spending time outdoors and appreciating nature.
 <div align="center">
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.shion.dev/api?username=suherlanrizky&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=suherlanrizky&theme=transparent&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=suherlanrizky&theme=transparent&hide_border=true&layout=compact)
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=technologyhell&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=technologyhell&theme=aura&hide_border=true" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=technologyhell&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
 </div>
 
 ---
@@ -58,6 +80,7 @@ Outside of work, I enjoy spending time outdoors and appreciating nature.
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/technologyhell) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nitishsinghslg) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@technologyhell) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/discord) 
 
 </div>
 
