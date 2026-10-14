@@ -1,55 +1,71 @@
-## Hi there, I'm Rizky Suherlan 👋
-
 <div align="center">
-  <!--  You can customize the typing text in the "lines=" section of the URL below -->
-  <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Rizky+Suherlan;Data+Analyst;Turning+Data+into+Actionable+Insights;" alt="Typing SVG" />
+
+  <!-- Header -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Rizky+Suherlan;Data+Analyst;Turning+Data+into+Actionable+Insights;" alt="Typing SVG" />
+
+  ### **Data Analyst** | Focused on Excel, SQL & BI Tools
+
+  <!-- Social Badges -->
+  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/discord) 
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/test) 
+  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:test@gmail.com)  
 </div>
 
-<!-- 🔗 Update these links with your own social media and contact information -->
-<p align="center">
-  <a href="https://linkedin.com/in/your-profile-url"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
-</p>
+---
 
-## 🚀 About Me 
-👋 I’m a data analyst passionate about turning complex datasets into clear stories and actionable insights. I specialize in building dashboards that people actually use, automating repetitive tasks to free up teams for more strategic work, and developing models that support better planning.
+## 💫 About Me
+👋 I’m a data analyst passionate about turning complex datasets into clear stories and actionable insights.  
+I specialize in building dashboards that people actually use, automating repetitive tasks to free up teams for more strategic work, and developing models that support better planning.  
+Outside of work, I enjoy spending time outdoors and appreciating nature.  
 
-Outside of work, I enjoy spending time outdoors and appreciating nature. I love the “aha!” moment when data reveals something new and valuable.
+---
 
-<!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://suherlanrizky.github.io/)
-      
-## 🔭 What I'm Currently Working On 
+## 🌱 Currently Learning
+| Skill Area   | Focus Topics | Tools/Methods |
+|--------------|--------------|---------------|
+| 📊 **Excel** | PivotTables, PivotCharts, dashboards | Excel, Google Sheets |
+| 📈 **Power BI** | Interactive reports, visualization | Power BI |
+| 🗄️ **SQL** | Queries, joins, aggregations | MySQL, PostgreSQL |
 
-- **Excel Projects:** Practicing advanced formulas, PivotTables, and interactive dashboards to strengthen data analysis skills.  
-- **Power BI Dashboards:** Creating simple, interactive reports to explore visualization techniques and uncover business insights.  
-- **SQL Queries:** Improving fundamentals by writing queries for data extraction, joins, and aggregations on sample datasets.  
+---
 
-## 🌱 Currently Learning 
+## 💻 Tech Stack ⚡
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) 
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 
-- Advanced Excel techniques: PivotTables, PivotCharts, and interactive dashboards.  
-- Power BI: Building simple, interactive reports and exploring visualization methods.  
-- SQL: Writing queries for data extraction, joins, and aggregations on sample datasets.  
+---
 
-## 🛠️ Technical Skillset
+<div align="center">
 
-<!-- This section uses Shields.io badges. You can customize them or create your own!-->
+## 📊 GitHub Stats
+![](https://github-readme-stats.shion.dev/api?username=suherlanrizky&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=suherlanrizky&theme=transparent&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=suherlanrizky&theme=transparent&hide_border=true&layout=compact)
 
-#### Data Analysis & Visualization
-<p>
-  <!-- 💡 Go to Shields.io to create your own badges -->
-  <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
-  <img src="https://img.shields.io/badge/Power%20BI-Expert-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
-  <img src="https://img.shields.io/badge/Excel-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
-</p>
+</div>
 
-#### Programming & Automation
-<p>
-  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
-</p>
+---
 
-#### Business Intelligence & Analytics
-<p>
-  <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
-</p>
+<div align="center">
+
+## 🌐 Connect with Me
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/technologyhell) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/technologyhell) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/technologyhell) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nitishsinghslg) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@technologyhell) 
+
+</div>
+
+---
+
+<div align="center">
+
+  ![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg)
+
+  [![](https://visitcount.itsvg.in/api?id=technologyhell&icon=10&color=6)](https://visitcount.itsvg.in)
+</div>
