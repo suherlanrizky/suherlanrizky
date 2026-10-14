@@ -17,6 +17,8 @@
 
 Outside of work, I enjoy spending time outdoors and appreciating nature. I love the “aha!” moment when data reveals something new and valuable.
 
+<!-- 🌐 Replace "your-username" with your actual GitHub username -->
+### [🏆 Check Out My Full Portfolio Website](https://suherlanrizky.github.io/)
       
 ## 🔭 What I'm Currently Working On 
 
