@@ -74,19 +74,15 @@
 
 ---
 
+## 🚀 Project Showcase
+
 <div align="center">
 
-<!-- <div data-importer="activities" align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
-  </a>
-</div> -->
+<a href="https://github.com/suherlanrizky/hasil-latihan-excel-fungsi/raw/main/gaji.png"> <img src="https://github.com/suherlanrizky/hasil-latihan-excel-fungsi/raw/main/gaji.png" width="30%" alt="Project 1"> </a> &nbsp;&nbsp; <a href="LINKPROJECT2"> <img src="https://github.com/suherlanrizky/hasil-latihan-excel-fungsi/raw/main/gaji.png" width="30%" alt="Project 2"> </a> &nbsp;&nbsp; <a href="https://github.com/suherlanrizky/hasil-latihan-excel-fungsi/raw/main/gaji.png"> <img src="https://github.com/suherlanrizky/hasil-latihan-excel-fungsi/raw/main/gaji.png" width="30%" alt="Project 3"> </a>
+
+</div>
+
+<div align="center"> <strong>📊 Data Analysis</strong> &nbsp;&nbsp;&nbsp;&nbsp; <strong>💰 Salary Management</strong> &nbsp;&nbsp;&nbsp;&nbsp; <strong>📈 Business Dashboard</strong> </div>
 
 ## 📊 GitHub Stats
 <div data-importer="stats" align="center">
