@@ -23,6 +23,8 @@
 
 </div>
 
+<img data-importer="image" align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
 ---
 
 ## 🌱 Currently Learning
@@ -63,11 +65,29 @@
 
 <div align="center">
 
+<!-- <div data-importer="activities" align="center" style="width: 100%">
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
+  </a>
+</div> -->
+
 ## 📊 GitHub Stats
+<div data-importer="stats" align="center">
+  
+  <!-- <img src="https://raw.githubusercontent.com/suherlanrizky/suherlanrizky/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  /> -->
+</div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suherlanrizky&theme=aura&hide_border=true&include_all_commits=true&count_private=false" width="55%" /> </br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suherlanrizky&theme=aura&hide_border=true" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suherlanrizky&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
+  <img src="https://github-readme-stats.vercel.app/api?username=suherlanrizky&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=suherlanrizky&theme=aura&hide_border=true" width="50%" /> -->
+  <img src="https://streak-stats.demolab.com?user=suherlanrizky&locale=en&mode=daily&theme=aura&hide_border=true&border_radius=5&order=3" width="50%" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suherlanrizky&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> 
+</br>
 </div>
 
 ---
@@ -86,10 +106,19 @@
 
 ---
 
-<div align="center">
+<!-- <img data-importer="snake" src="https://raw.githubusercontent.com/suherlanrizky/suherlanrizky/snake-output/snake.svg" alt="Snake animation" /> -->
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suherlanrizky/suherlanrizky/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suherlanrizky/suherlanrizky/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/suherlanrizky/suherlanrizky/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture> 
 
-  ![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg)
 
-  [![](https://visitcount.itsvg.in/api?id=technologyhell&icon=10&color=6)](https://visitcount.itsvg.in)
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
+
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=suherlanrizky.suherlanrizky&"  />
+</div>
