@@ -55,7 +55,7 @@
         </tr>
       </table>
     </td>
-    <td style="width:5%; border:none;"></td>
+    <!-- <td style="width:5%; border:none;"></td> -->
     <td style="vertical-align:top; width:30%; text-align:center; padding:0; margin:0; border:none;">
       <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
     </td>
