@@ -28,31 +28,39 @@
 ---
 
 ## 🌱 Currently Learning
-<table style="border-collapse: collapse; width: 100%; border:1px solid #ddd;">
-  <tr style="background-color:#f2f2f2;">
-    <th>Skill Area</th>
-    <th>Focus Topics</th>
-    <th>Tools/Methods</th>
-  </tr>
+<table style="width:100%; border-collapse:collapse; border:none;">
   <tr>
-    <td>📊 <b>Excel</b></td>
-    <td>PivotTables, PivotCharts, dashboards</td>
-    <td>Excel, Google Sheets</td>
-  </tr>
-  <tr style="background-color:#f9f9f9;">
-    <td>📈 <b>Power BI</b></td>
-    <td>Interactive reports, visualization</td>
-    <td>Power BI</td>
-  </tr>
-  <tr>
-    <td>🗄️ <b>SQL</b></td>
-    <td>Queries, joins, aggregations</td>
-    <td>MySQL, PostgreSQL</td>
+    <!-- Kolom kiri: tabel skill -->
+    <td style="vertical-align:top; width:65%; padding:0; margin:0; border:none;">
+      <table style="border-collapse: collapse; width: 100%; border:none;">
+        <tr style="background-color:#f2f2f2;">
+          <th>Skill Area</th>
+          <th>Focus Topics</th>
+          <th>Tools/Methods</th>
+        </tr>
+        <tr>
+          <td>📊 <b>Excel</b></td>
+          <td>PivotTables, PivotCharts, dashboards</td>
+          <td>Excel, Google Sheets</td>
+        </tr>
+        <tr style="background-color:#f9f9f9;">
+          <td>📈 <b>Power BI</b></td>
+          <td>Interactive reports, visualization</td>
+          <td>Power BI</td>
+        </tr>
+        <tr>
+          <td>🗄️ <b>SQL</b></td>
+          <td>Queries, joins, aggregations</td>
+          <td>MySQL, PostgreSQL</td>
+        </tr>
+      </table>
+    </td>
+    <td style="width:5%; border:none;"></td>
+    <td style="vertical-align:top; width:30%; text-align:center; padding:0; margin:0; border:none;">
+      <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+    </td>
   </tr>
 </table>
-<div data-importer="image" align="right">
-  <img data-importer="image" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
 
 ---
 
